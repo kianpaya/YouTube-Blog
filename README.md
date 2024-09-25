@@ -1,4 +1,4 @@
-# Free Resources
+# Free Resources from Data Vision
 This is where I share free AI and data science resources. 
 
 Each folder corresponds to a YouTube video or Medium blog series (or both). You will find links to relevant content in the ReadMe files located in each respective folder.
